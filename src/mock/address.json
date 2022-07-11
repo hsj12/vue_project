@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "fullAddress":"陕西省西安市长安区西安邮电大学",
+        "userId":"1",
+        "consignee":"韩少江",
+        "phoneNum":"15129535115",
+        "isDefault":"1"
+    },
+    {
+        "id":"2",
+        "fullAddress":"陕西省西安市长安区西安邮电大学2",
+        "userId":"2",
+        "consignee":"韩少江",
+        "phoneNum":"15129535115",
+        "isDefault":"0"
+    },
+    {
+        "id":"3",
+        "fullAddress":"陕西省西安市长安区西安邮电大学3",
+        "userId":"1",
+        "consignee":"韩少江",
+        "phoneNum":"15129535115",
+        "isDefault":"0"
+    }
+    
+]
